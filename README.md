@@ -1,0 +1,2 @@
+# wissenschaftliches_Arbeiten_2022
+Repository für wissenschaftliches Arbeiten
