@@ -1,2 +1,2 @@
-x <- rnorm(100, mean= 3)
+x <- rnorm(100, mean= 5)
 
